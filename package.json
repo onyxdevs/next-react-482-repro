@@ -1,0 +1,13 @@
+{
+  "name": "next-482-error-recovery-repro",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next start -p 4390"
+  },
+  "dependencies": {
+    "next": "16.3.8",
+    "react": "19.2.5",
+    "react-dom": "19.2.5"
+  }
+}
